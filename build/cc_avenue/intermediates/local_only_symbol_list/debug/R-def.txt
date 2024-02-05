@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+array selectAction
+id approve
+id otp_frame
+id otptext
+id password
+id relativeId
+id smsOtp
+id textView
+id textView1
+id textView2
+id timerText
+id webView
+layout activity_main
+layout activity_status
+layout approve_otp_layout
+layout city_bank_layout
+layout otp_fragment
+string cancel

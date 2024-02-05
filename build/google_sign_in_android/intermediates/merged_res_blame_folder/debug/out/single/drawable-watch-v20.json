@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Anjali collections\\final clone\\zipcart_user-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Alphaiwzz\\.gradle\\caches\\transforms-3\\b0e671013eb3119b6145fa35fae0da4f\\transformed\\jetified-play-services-auth-20.6.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Anjali collections\\final clone\\zipcart_user-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Alphaiwzz\\.gradle\\caches\\transforms-3\\b0e671013eb3119b6145fa35fae0da4f\\transformed\\jetified-play-services-auth-20.6.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Anjali collections\\final clone\\zipcart_user-master\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Alphaiwzz\\.gradle\\caches\\transforms-3\\b0e671013eb3119b6145fa35fae0da4f\\transformed\\jetified-play-services-auth-20.6.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]
